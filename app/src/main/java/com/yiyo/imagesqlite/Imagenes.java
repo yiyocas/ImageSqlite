@@ -8,7 +8,7 @@ import io.realm.RealmObject;
 public class Imagenes extends RealmObject {
 
     String Id_mail;
-
+//Jajajaja
     public String getId_mail() {
         return Id_mail;
     }
