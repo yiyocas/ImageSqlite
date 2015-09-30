@@ -9,10 +9,6 @@ public class Imagenes extends RealmObject {
 
     String Id_mail;
 
-
-
-
-
     public String getId_mail() {
         return Id_mail;
     }
