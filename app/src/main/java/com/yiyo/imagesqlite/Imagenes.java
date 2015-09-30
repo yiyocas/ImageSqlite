@@ -7,12 +7,9 @@ import io.realm.RealmObject;
  */
 public class Imagenes extends RealmObject {
 
-
-    /**
-     *
-     */
-    @ignore
     String Id_mail;
+
+
 
 
 
